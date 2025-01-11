@@ -1,0 +1,56 @@
+[
+    {
+        "course_name": "Computer Organiz&Program - CS-2110-A/B/C/D/E/GR",
+        "assignment_name": "1-9 Lecture Attendance (nc)",
+        "due_at": "2025-01-11T04:59:59Z",
+        "id": 1936036
+    },
+    {
+        "course_name": "Computer Organiz&Program - CS-2110-A/B/C/D/E/GR",
+        "assignment_name": "1-14 Lecture Attendance",
+        "due_at": "2025-01-16T04:59:59Z",
+        "id": 1936038
+    },
+    {
+        "course_name": "Idea 2 Prototype",
+        "assignment_name": "Mentor Grade",
+        "due_at": "2025-05-02T03:59:59Z",
+        "id": 1901536
+    },
+    {
+        "course_name": "Objects and Design - CS-2340-C",
+        "assignment_name": "Assignment 0 - Introduce Yourself!",
+        "due_at": "2025-01-13T04:59:00Z",
+        "id": 1992558
+    },
+    {
+        "course_name": "Objects and Design - CS-2340-C",
+        "assignment_name": "Assignment 1 - Introduction to Web Development (Django)",
+        "due_at": "2025-01-22T04:59:59Z",
+        "id": 1992560
+    },
+    {
+        "course_name": "Objects and Design - CS-2340-C",
+        "assignment_name": "Assignment 2 - Working on Git and GitHub",
+        "due_at": "2025-01-22T04:59:59Z",
+        "id": 1992562
+    },
+    {
+        "course_name": "Special Topics - CX-4803-GPU",
+        "assignment_name": "Pre-class assignment due 1/6 ",
+        "due_at": "2025-01-06T23:00:00Z",
+        "id": 1950530
+    },
+    {
+        "course_name": "Special Topics - CX-4803-GPU",
+        "assignment_name": "Pre-class assignment 1 due 1/8",
+        "due_at": "2025-01-08T23:30:00Z",
+        "id": 1990030
+    },
+    {
+        "course_name": "Special Topics - CX-4803-GPU",
+        "assignment_name": "Project 1 (description only; it will be available as a github repo)",
+        "due_at": "2025-01-30T04:59:59Z",
+        "id": 1997236
+    }
+]

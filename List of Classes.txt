@@ -1,0 +1,25 @@
+Course ID: 405654, Name: Unnamed Course
+Course ID: 405916, Name: Air Force Leadership-Lab - AS-1000-1
+Course ID: 405196, Name: American Government - INTA-1200-O
+Course ID: 154772, Name: College of Computing Transfer FASET
+Course ID: 350396, Name: FASET Student Orientation 2024
+Course ID: 350454, Name: Georgia Legislative Requirement (GLR) - Georgia Constitution
+Course ID: 350452, Name: Georgia Legislative Requirement (GLR) - Georgia History
+Course ID: 350118, Name: Georgia Legislative Requirement (GLR) - US Constitution
+Course ID: 317670, Name: Georgia Legislative Requirements (GLR) - US History
+Course ID: 445888, Name: GT College of Computing Career Services
+Course ID: 390324, Name: GT Transfer Seminar - GT-2000-TR1
+Course ID: 404314, Name: Intr to Database Systems - CS-4400-A
+Course ID: 409224, Name: Intro-Perception&Robotic - CS-3630-A
+Course ID: 385844, Name: Linear Algebra A/E
+Course ID: 397286, Name: Special Topics - CX-4803-CML
+Course ID: 405912, Name: US Air & Space Power I - AS-2210-A1
+Course ID: 419144, Name: VIP Proj Team
+
+Course ID: 450486, Name: VIP Proj Team: JR I - VIP-3601-VYR
+Course ID: 423818, Name: Computer Organiz&Program - CS-2110-A/B/C/D/E/GR
+Course ID: 427862, Name: Spring 25 ML 4641
+Course ID: 448358, Name: Special Topics - CX-4803-GPU
+Course ID: 422930, Name: Intro-Artificial Intell - CS-3600-A/B/C/D
+Course ID: 436466, Name: Idea 2 Prototype
+Course ID: 438624, Name: Objects and Design - CS-2340-C
