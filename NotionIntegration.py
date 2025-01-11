@@ -17,25 +17,28 @@ def verify_database(notion_database_id):
     response = requests.get(url, headers=notion_headers)
     print(response.status_code, response.json())
 
+    if response.status_code == 200:
+        print("Database verified successfully!")
+    else:
+        print("Error verifying database:", response.status_code, response.json())
+
+
 # Push assignments from JSON to Notion
 def push_to_notion(json_file):
     with open(json_file, "r") as f:
         data = json.load(f)
 
-    course_name = data["course_name"]
-    assignments = data["assignments"]
-
-    for assignment in assignments:
-        assignment_name = assignment.get("name", "Unnamed Assignment")
+    for assignment in data:
+        course_name = assignment.get("course_name", "Unknown Course")
+        assignment_name = assignment.get("assignment_name", "Unnamed Assignment")
         due_date = assignment.get("due_at", None)
 
         notion_data = {
             "parent": {"database_id": NOTION_DATABASE_ID},
             "properties": {
-                "Name": {"title": [{"text": {"content": assignment_name}}]},
-                "Due Date": {"date": {"start": due_date} if due_date else None},
-                "Course": {"rich_text": [{"text": {"content": course_name}}]},
-                "Status": {"select": {"name": "Not Started"}}  # Default status
+                "Assignment Name": {"title": [{"text": {"content": assignment_name}}]},
+                "Deadline": {"date": {"start": due_date} if due_date else None},
+                "Done": {"checkbox": False},  # Default to not done
             }
         }
 
@@ -48,4 +51,4 @@ def push_to_notion(json_file):
 # Main function
 if __name__ == "__main__":
     verify_database(NOTION_DATABASE_ID)
-    push_to_notion("assignments.json")
+    push_to_notion("all_assignments.json")
