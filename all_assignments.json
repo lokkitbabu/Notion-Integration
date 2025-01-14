@@ -1,6 +1,18 @@
 [
     {
         "course_name": "Computer Organiz&Program - CS-2110-A/B/C/D/E/GR",
+        "assignment_name": "Homework 1: Bases and Bitwise Operations",
+        "due_at": "2025-01-23T04:59:59Z",
+        "id": 1936134
+    },
+    {
+        "course_name": "Computer Organiz&Program - CS-2110-A/B/C/D/E/GR",
+        "assignment_name": "Lab Pre-Test",
+        "due_at": "2025-01-14T04:59:59Z",
+        "id": 1998270
+    },
+    {
+        "course_name": "Computer Organiz&Program - CS-2110-A/B/C/D/E/GR",
         "assignment_name": "1-9 Lecture Attendance (nc)",
         "due_at": "2025-01-11T04:59:59Z",
         "id": 1936036
