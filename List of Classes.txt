@@ -1,3 +1,5 @@
+Past Classes
+
 Course ID: 405654, Name: Unnamed Course
 Course ID: 405916, Name: Air Force Leadership-Lab - AS-1000-1
 Course ID: 405196, Name: American Government - INTA-1200-O
@@ -15,6 +17,8 @@ Course ID: 385844, Name: Linear Algebra A/E
 Course ID: 397286, Name: Special Topics - CX-4803-CML
 Course ID: 405912, Name: US Air & Space Power I - AS-2210-A1
 Course ID: 419144, Name: VIP Proj Team
+
+Active Classes
 
 Course ID: 450486, Name: VIP Proj Team: JR I - VIP-3601-VYR
 Course ID: 423818, Name: Computer Organiz&Program - CS-2110-A/B/C/D/E/GR
